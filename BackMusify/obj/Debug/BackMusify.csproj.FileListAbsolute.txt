@@ -1,0 +1,6 @@
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\bin\Debug\BackMusify.dll
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\bin\Debug\BackMusify.pdb
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\obj\Debug\BackMusify.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\obj\Debug\BackMusify.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\obj\Debug\BackMusify.dll
+C:\Users\thiag\source\repos\ProjectMusify\BackMusify\obj\Debug\BackMusify.pdb

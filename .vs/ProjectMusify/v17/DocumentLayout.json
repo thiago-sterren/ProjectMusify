@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29819230-F079-4356-A22D-B2BB6A2EADE1}|BibliotecaProjectMusifyTests\\BibliotecaProjectMusifyTests.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusifytests\\principaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29819230-F079-4356-A22D-B2BB6A2EADE1}|BibliotecaProjectMusifyTests\\BibliotecaProjectMusifyTests.csproj|solutionrelative:bibliotecaprojectmusifytests\\principaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\bibliotecaprojectmusify\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A962E5-8417-4C4A-9178-21352ECC3BE7}|BibliotecaProjectMusify\\BibliotecaProjectMusify.csproj|solutionrelative:bibliotecaprojectmusify\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|c:\\users\\thiag\\desktop\\thiago\\github\\projectmusify\\webapplicationapi\\webapplicationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6425ECA-4F18-4D65-830C-1ED8DF0762BC}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\webapplicationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\PlaylistController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\PlaylistController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwHEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:24:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\SongController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\SongController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAApwDgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:19:39.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\AlbumController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:09:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\ArtistController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:03:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowHYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:56:06.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplicationAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\WebApplicationAPI.csproj",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\WebApplicationAPI.csproj",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\WebApplicationAPI\\WebApplicationAPI.csproj",
+              "RelativeToolTip": "WebApplicationAPI\\WebApplicationAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T17:00:00.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalTests.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusifyTests\\PrincipalTests.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusifyTests\\PrincipalTests.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusifyTests\\PrincipalTests.cs",
+              "RelativeToolTip": "BibliotecaProjectMusifyTests\\PrincipalTests.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAA5wE0BAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:10:35.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:32:17.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\User.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\User.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\User.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:37.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Album.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Album.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Album.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Album.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:24.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Playlist.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Playlist.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Playlist.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Playlist.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Song.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Song.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Song.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Song.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:30:08.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Artist.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Artist.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Artist.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:29:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Admin.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Admin.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Admin.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Admin.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:29:50.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Principal.cs",
+              "RelativeDocumentMoniker": "BibliotecaProjectMusify\\Principal.cs",
+              "ToolTip": "C:\\Users\\thiag\\Desktop\\Thiago\\GitHub\\ProjectMusify\\BibliotecaProjectMusify\\Principal.cs",
+              "RelativeToolTip": "BibliotecaProjectMusify\\Principal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK4BAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:25:37.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
